@@ -1,0 +1,2 @@
+This Repo is to showcase my aqquired skill from the first few chapters of the fullstack Webdeveloper Guide from theodinproject.com
+The skills i aqquired are first and foremost how to get around the terminal in linux and macos, the buildingblocks of a website, git Messages and Links and Pictures in HTML
